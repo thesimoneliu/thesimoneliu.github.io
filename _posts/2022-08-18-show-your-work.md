@@ -1,4 +1,4 @@
-# Show Your Work
+# First Post: Show Your Work
 
   
 On the flight back to New York, I finished reading this small book *Show Your Work* by Austin Kleon. Below are my notes and take-aways:
