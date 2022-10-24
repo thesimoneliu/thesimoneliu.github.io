@@ -1,3 +1,8 @@
+layout: post
+title: "The First Post: Show Your Work"
+date: 2022-08-18 hh:mm:ss -0000
+categories: Book-Review
+
 # The First Post: Show Your Work
 
   
