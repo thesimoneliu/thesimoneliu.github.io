@@ -15,7 +15,7 @@
 [Portfolio Website](https://yhsong.com/) <br/>
 
 She focuses on extending the border of a website and making anti-user-friendly digital experience. 看到她的作品第一眼就是惊艳，怎么会有人这么想？怎么会有人这么做？在除了现存的现实之外，还有另一种现实的发展方式。虽然现在的我每天钻研怎么让东西好看，但这触动我思考：美丽的东西之外还有什么？什么能一直驱动我做设计？ <br/>
-![[wk1_yehwan-song-portfolio.png](assets/img/wk1_yehwan-song-portfolio.png)]
+![[wk1_yehwan-song-portfolio.png](../assets/img/wk1_yehwan-song-portfolio.png)]
 
 
 2. Mercury OS (2020), Jason Yuan <br/>
@@ -24,7 +24,7 @@ She focuses on extending the border of a website and making anti-user-friendly d
 - 问题是，这个系统基于他自己的工作流和认识方式，如果名词会被分散在不同地方，那如何保证动词不会语义重复？
 - 这套设计的思路很像语言学，如何构建一句话影响着人按照什么方式工作 —— 那是否有人是根据空间的方式工作，比如先到达什么位置再想干什么？有人是根据时间、有人根据动词，不同文化背景、语言和职业的人能够有多不一样？
 - 最初苹果的用户体验与微软不同，但上手后爱不释手，因为他们找准了人的潜在需求和更适合人操作电子设备的体验方式 —— 如何能有下一个苹果？还能不能有这样体验上的突变？如何能有、如何又不能？
-![[Pasted image 20221017231927.png]]
+![[wk1_mercuryOS.png](../assets/img/wk1_mercuryOS.png)]
 
 3. TED Talk 'The danger of the single story' (2009), Chimamanda Adichie <br/>
 [Video Link](https://www.youtube.com/watch?v=D9Ihs241zeg&ab_channel=TED) <br/>
@@ -42,18 +42,18 @@ She focuses on extending the border of a website and making anti-user-friendly d
 第一，对外观结构相似、却因时代频率各有不同的收音机产生兴趣。 <br/>
 第二，通天塔的主题延伸开来，创作者和作家 Jorge Luis Borges (1899–1986) 产生共鸣：用声音用作雕塑和感知元素，且作家豪无界限的宇宙与艺术家对 expanded notions of space and of infinity, in an excess of perceivable information and the processes of cognition 的兴趣呼应 —— 在文学作品中寻找抽象的共鸣。 <br/>
 
-![[Pasted image 20221018021913.png]]
+![[wk1_Babel.png](../assets/img/wk1_Babel.png)]
 
 让我想起的另一个是 [Extra Bold (2021), Princeton Architectural Press](https://www.amazon.com/Extra-Bold-Inclusive-Anti-racist-Nonbinary/dp/1616899182/ref=asc_df_1616899182/?tag=hyprod-20&linkCode=df0&hvadid=564807226538&hvpos=&hvnetw=g&hvrand=16817767846468772366&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9067609&hvtargid=pla-1155723178976&psc=1)  中一副 [Social Construction Zone (2020), Jennifer Tobias](https://papress.com/pages/extra-bold) 的插图，有趣的点在于把社会上能影响人的大点变成大道，通过图像的方式展现不同领域的小细节怎么交叉影响一群人，我看完立即想要画一个中国版！ <br/>
 
-![[Pasted image 20221018022208.png]]
+![[wk1_social-map.png](../assets/img/wk1_social-map.png)]
 
 
 4. Pathfinder (2020), by Jeon Bohm <br/>
 [Project Website](https://jeanboehm.de/work/pathfinder) <br/>
 在概念和技术手段上都让我看了叫绝的字体设计项目。看到项目第一印象是：技术路径聪明啊！不同于常规机器学习字体像素的方法，这个来自德国的设计师把字体转化为 SVG 文件丢给机器学习 —— 处理能生成字体矢量文件的直接数据，那可不比像素这种模糊中介聪明精准得多？ <br/>
 
-![[Pasted image 20221024000247.png]]
+![[wk1_pathfinder.png](../assets/img/wk1_pathfinder.png)]
 
 记录一些非常值得我学习的点： <br/>
 - 整个项目过程中，他制作了两个小工具：proportion prediction tool，font-to-svg tool。为自己的创作过程制作工具，其实并非远在天边的事，应把“开发有利于优化个人创意过程的小工具”正式纳入创意过程中。比如我知道的 [undev.studio](https://undev.studio/) 开发了 [cables.gl](https://cables.gl/home)，[RNDR studio](https://rndr.studio/) 开发了以 Java 为基础的 [OpenRNDR 库](https://openrndr.org/) 用于创意编程和机器学习，平面设计 [burrow studio](https://im-burrow.com/) 正在开发继 [Prototypo (2016), Frederik De Bleser & Louis‑Rémi Babé](https://www.prototypo.io/) 之后的另一个参数化可变字体设计工具。正如 Rutherford Craze, founder of [Mass Driver](https://workshop.mass-driver.com/) 在 [Atypl - Tools for working with Fonts (2021)](https://www.youtube.com/watch?v=GbVsMUlsuYA&ab_channel=ATypI) 中提到，**创造自己的工具就是创造自己的生产方式。**
