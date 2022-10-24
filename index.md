@@ -1,1 +1,1 @@
-Hi, I'm Simone!
+This is Simone Liu's personal blog space.
